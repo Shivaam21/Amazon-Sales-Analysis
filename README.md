@@ -1,0 +1,1 @@
+This project leveraged the power of powerbi to perform a comprehensive sales analysis on amazon data.In this analysis,i utilized all the powerbi visualization tools like cards,plots,slicers,maps etc to generate meaningful insights.
